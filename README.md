@@ -7,7 +7,8 @@
 - 💬 Ask me about the Odin Project
 - 📫 How to reach me: i dont know ive been trying.
 - 😄 Pronouns: COR/SAIR
-- ⚡ Fun fact: Odin project is a react app
+- ⚡ Fun fact: Odin project is a react app 
 
-
-![Explore Theme 1](https://www.theodinproject.com/assets/about_page/odin-mascot-09612759a92b4a900c836a951e0b7becb7ceac47a5e2bf2225c13732cb99aa09.svg)
+<p align="center"> 
+<img src="https://www.theodinproject.com/assets/about_page/odin-mascot-09612759a92b4a900c836a951e0b7becb7ceac47a5e2bf2225c13732cb99aa09.svg" alt="">
+</p>
