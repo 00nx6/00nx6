@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Odin Project
 - 💬 Ask me about the Odin Project
 - 📫 How to reach me: i dont know ive been trying.
-- 😄 Pronouns: Odin/Odin self
+- 😄 Pronouns: COR/SAIR
 - ⚡ Fun fact: Odin project is a react app
 
 
