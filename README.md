@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the Odin Project
 - 🌱 I’m currently (re)learning JavaScript 
 - 👯 I’m looking to collaborate on Odin Project
